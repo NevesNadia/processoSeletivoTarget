@@ -10,8 +10,14 @@ somaMensal = 0
 for i in data:
     somaMensal += float(i['valor'])
 
+    print(len(data)) 
+          
+#if i['valor'] != 0): 
+
 
 print(somaMensal)
+
+
 
 
 
